@@ -1,0 +1,9 @@
+﻿  Zadanie1.cpp
+d:\visual\s3.1\s3.1\zadanie1.cpp(41): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+d:\visual\s3.1\s3.1\zadanie1.cpp(144): warning C4305: "+=": obcięcie z "double" do "GLfloat"
+d:\visual\s3.1\s3.1\zadanie1.cpp(149): warning C4305: "-=": obcięcie z "double" do "GLfloat"
+d:\visual\s3.1\s3.1\zadanie1.cpp(210): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+d:\visual\s3.1\s3.1\zadanie1.cpp(212): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+d:\visual\s3.1\s3.1\zadanie1.cpp(214): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+d:\visual\s3.1\s3.1\zadanie1.cpp(216): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+  s3.1.vcxproj -> D:\visual\s3.1\Debug\s3.1.exe

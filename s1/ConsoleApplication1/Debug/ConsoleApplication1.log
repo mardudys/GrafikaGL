@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+d:\visual\consoleapplication1\consoleapplication1\consoleapplication1.cpp(35): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+d:\visual\consoleapplication1\consoleapplication1\consoleapplication1.cpp(34): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+d:\visual\consoleapplication1\consoleapplication1\consoleapplication1.cpp(142): warning C4326: zwracany typ "main" powinien być "int" zamiast "void"
+  ConsoleApplication1.vcxproj -> D:\visual\ConsoleApplication1\Debug\ConsoleApplication1.exe

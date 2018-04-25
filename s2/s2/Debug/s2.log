@@ -1,0 +1,4 @@
+﻿  s2.cpp
+d:\visual\s2\s2\s2.cpp(40): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+d:\visual\s2\s2\s2.cpp(41): warning C4244: "=": konwersja z "double" do "GLfloat", możliwa utrata danych
+  s2.vcxproj -> D:\visual\s2\Debug\s2.exe
