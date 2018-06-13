@@ -1,0 +1,9 @@
+﻿  targa.cpp
+c:\users\martin\downloads\targa.cpp(40): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: zobacz deklarację „fopen”
+c:\users\martin\downloads\targa.cpp(120): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: zobacz deklarację „fopen”
+  VectorMath.cpp
+  Źródło.cpp
+e:\visual\s9\s9\źródło.cpp(8): fatal error C1083: Nie można otworzyć pliku dołącz: 'glext.h': No such file or directory
+  Generowanie kodu...
